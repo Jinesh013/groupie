@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755502466257",
+    "project_id": "groupie-8dad2",
+    "storage_bucket": "groupie-8dad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755502466257:android:d79bccb9dc50efe67471f0",
+        "android_client_info": {
+          "package_name": "com.example.groupie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7tNSuXJ4AOy7Zg4W_ttKyGBFbgKVl_Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
